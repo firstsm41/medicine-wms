@@ -149,3 +149,6 @@ modules.xml
 .idea/misc.xml
 
 *.ipr
+
+# GitToolBox plugin preferences are developer-local
+.idea/git_toolbox*.xml
